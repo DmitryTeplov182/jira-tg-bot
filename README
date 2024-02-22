@@ -1,4 +1,4 @@
-# Telegram Jira Bot
+# Telegram Jira Bot 
 
 This project contains a Telegram bot that creates tasks in Jira based on messages from allowed users. The bot is designed to run in a Docker container, making it easy to deploy and run.
 
