@@ -36,9 +36,9 @@ JIRA_ISSUE_TYPE=Task
 ASSIGNEE_ACCOUNT_ID=your_jira_account_id
 ALLOWED_USER_ID=telegram_user_id_allowed_to_create_tasks
 ```
-Instructions for creating a Telegram bot can be found at [Telegram Bot Tutorial](https://core.telegram.org/bots/tutorial#getting-ready).
-How to obtain your Jira token: [Manage API tokens for your Atlassian account](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/).
-To find out your Telegram user ID, you can use [My Telegram ID Bot](https://t.me/myidbot).
+Instructions for creating a Telegram bot can be found at [Telegram Bot Tutorial](https://core.telegram.org/bots/tutorial#getting-ready).    
+How to obtain your Jira token: [Manage API tokens for your Atlassian account](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/).   
+To find out your Telegram user ID, you can use [My Telegram ID Bot](https://t.me/myidbot).   
 
 3. **Build and start the bot:**
 Run the following command to build the Docker image and start the bot:
